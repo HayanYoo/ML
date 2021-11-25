@@ -49,4 +49,5 @@ for i in range(6):
 
 empty.sort()
 
+
 k = 10
